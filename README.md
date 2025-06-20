@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vJVMVEG"  ><a href="//imgur.com/a/vJVMVEG">WEB 102 Prework Submission</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vJVMVEG"  ><a href="//imgur.com/a/vJVMVEG">WEB 102 Prework Submission</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF  
