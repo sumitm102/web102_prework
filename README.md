@@ -23,7 +23,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Watch the video](https://imgur.com/a/web-102-prework-submission-vJVMVEG)
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/vJVMVEG"  ><a href="//imgur.com/a/vJVMVEG">WEB 102 Prework Submission</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
