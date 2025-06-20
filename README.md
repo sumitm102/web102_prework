@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/web-102-prework-submission-vJVMVEG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[![Watch the video](https://i.imgur.com/bQBNN6i.gif)](https://imgur.com/a/web-102-prework-submission-vJVMVEG)
+[Watch the video](https://imgur.com/a/web-102-prework-submission-vJVMVEG)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF  
